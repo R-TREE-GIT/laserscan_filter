@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="LaserScanFilter" type="laserscan_filter.py" name="laserscan_filter" output="screen">
+    </node>
+</launch>
